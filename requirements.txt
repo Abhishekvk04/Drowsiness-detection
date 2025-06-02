@@ -1,0 +1,7 @@
+opencv-python
+scipy
+imutils
+numpy
+playsound
+argparse
+mediapipe
